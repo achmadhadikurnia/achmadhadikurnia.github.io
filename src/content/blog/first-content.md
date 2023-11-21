@@ -1,5 +1,5 @@
 ---
-title: "Experience Creating First Content with Astro, GitHub, and Vercelt"
+title: "Experience Creating First Content with Astro, GitHub, and Vercel"
 description: "My first content using Github using Astro and Vercel."
 pubDate: "Nov 21 2023"
 heroImage: "/post_img.webp"
