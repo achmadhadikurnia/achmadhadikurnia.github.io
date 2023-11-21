@@ -2,7 +2,7 @@
 title: "Experience Creating First Content with GitHub, Astro and Vercel"
 description: "My first content using Github, Astro and Vercel."
 pubDate: "Nov 21 2023"
-heroImage: "/assets/post-thumbnail.png"
+heroImage: "/assets/first-content.png"
 tags: ["github", "astro", "vercel"]
 ---
 
