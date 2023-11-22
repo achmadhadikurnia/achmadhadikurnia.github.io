@@ -8,16 +8,16 @@ import vercel from '@astrojs/vercel/serverless';
 export default defineConfig({
   site: 'https://achmadhadikurnia.com',
   integrations: [mdx(), sitemap(), tailwind()],
-  output: 'server',
-  adapter: vercel({
-    webAnalytics: {
-      enabled: true,
-    },
-    speedInsights: {
-      enabled: true,
-    },
-    adapter: vercel({
-      imageService: true,
-    }),
-  }),
+  // output: 'server',
+  // adapter: vercel({
+  //   webAnalytics: {
+  //     enabled: true,
+  //   },
+  //   speedInsights: {
+  //     enabled: true,
+  //   },
+  //   adapter: vercel({
+  //     imageService: true,
+  //   }),
+  // }),
 });
